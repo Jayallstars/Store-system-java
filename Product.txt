@@ -1,0 +1,40 @@
+001 Whiskey 110 102
+002 Yasen 15 102
+003 Black tiger 147 100
+004 M onefivezero 15 100
+005 Sangsom Liquor 430 100
+006 SangsomBan Liquor 145 100
+007 Hong Thong 1006 100
+008 Canned fish 18 100
+009 Rosa fish 20 100
+010 Canned chilli 22 100
+011 Canned clams 26 100
+012 Canned lettuce 18 100
+013 Canned Vegetables 30 100
+014 Red MSG 96 100
+015 Chicken Sauce 52 100
+016 Knorr Pork 20 100
+017 Knorr Chicken 20 100
+018 Knorr TomYum 20 100
+019 Chicken Seasoning 58 100
+020 Crispy Flour 26 100
+021 Mama TomYum 6 100
+022 Mama Creamy 6 100
+023 Foremost Milk 15 100
+024 Foremost Unsalted 15 100
+025 Foremost Chocolate 15 100
+026 Vitamilk 15 100
+027 Milk latta 10 50
+028 Coke 25 800
+029 Oishi Tea 25 100
+030 Oishi Honey 25 100
+031 Red Fanta 30 100
+032 Jasmine milk 25 100
+033 Milk bear 25 200
+034 Dutch Mill 18 100
+036 Dido Juice 12 100
+037 Nam Daeng 12 100
+038 Nestle Water 8 100
+039 Crystal Water 8 100
+040 Singha water 15 200
+041 Miso sauce 55 200
